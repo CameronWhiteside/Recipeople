@@ -16,7 +16,7 @@ Recipeople is a website where users can sign up, post recipes, and curate collec
 
 1. Clone the project repository
 ```
-   git clone https://github.com/MeiMeiYS/group-9-best-group.git
+   git clone https://github.com/CameronWhiteside/recipeople.git
 ```
 2. Install dependencies
 ```
